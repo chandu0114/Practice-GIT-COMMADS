@@ -1,3 +1,4 @@
-hey -chandu
-hi -chandu
-hello -chandu
+hey - chandu;
+hi - chandu;
+hello - chandu;
+helloooooooooo - chandu;
